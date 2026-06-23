@@ -1,0 +1,6 @@
+{
+  "name": "Focus Room",
+  "description": "Um espaço minimalista e livre de distrações para estudar com foco, som ambiente e controle de tempo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
