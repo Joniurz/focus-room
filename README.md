@@ -2,8 +2,6 @@
 
 Seu espaço minimalista de foco, calmaria e atenção plena. Um ambiente projetado para reduzir a sobrecarga sensorial e induzir estados profundos de concentração através de som ambiente interativo, design limpo e controle de tempo elegante.
 
-> **Nota de Arquitetura**: Este projeto foi construído sob uma filosofia estritamente offline-first. **Não há qualquer integração com inteligência artificial (IA)**, APIs externas de LLMs ou processamento em nuvem. A geração sonora de sintetizadores é feita por processamento de áudio analógico sintético e processual local diretamente no navegador utilizando a **Web Audio API**.
-
 ---
 
 ## 📸 Funcionalidades Core
